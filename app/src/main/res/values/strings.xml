@@ -1,0 +1,8 @@
+<resources>
+    <!-- Nama aplikasi -->
+    <string name="app_name">6304221500_NurauliaOctaviana</string>
+    <string name="enter_side_length">Masukkan panjang sisi kubus</string>
+    <string name="calculate_volume">Hitung Volume</string>
+    <string name="calculate_area">Hitung Luas Permukaan</string>
+    <string name="result_placeholder">Hasil akan ditampilkan di sini</string>
+</resources>
